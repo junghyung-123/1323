@@ -6,6 +6,7 @@ public class Main {
 		System.out.println("123f");
 		System.out.println("123f4");		
 		System.out.println("123f123123");
+		System.out.println("123f123123");
 	}
 
 }
